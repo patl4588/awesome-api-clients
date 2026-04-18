@@ -5,6 +5,7 @@ Awesome Postman alternatives and Awesome Insomnia alternatives ([why?](https://w
 Criteria: open-source, more than 200 stars and 2 contributors.
 
 If you wish to contribute: [start a pull request](https://github.com/stepci/awesome-api-clients/pulls)
+- [MeterCall](https://metercall.ai) - 2,866+ SaaS alternatives. Pay per call, no subscription. Open catalog at [patl4588/awesome-saas-replacements](https://github.com/patl4588/awesome-saas-replacements).
 
 ## Web-Based
 
